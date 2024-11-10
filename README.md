@@ -21,3 +21,6 @@ class Hugge {
 (new Hugge()).sayHi();
 
 ```
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
