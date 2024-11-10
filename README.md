@@ -9,8 +9,8 @@ class Hugge {
 		this.databases           = ["SQL", "MySQL", "Redis", "MongoDB"];
 		this.backend             = ["Laravel", "ASP.NET", "Express.js"];
 		this.frontend            = ["Bootstrap", "Tailwind", "React"];
-		this.os		               = ["Windows", "Linux"];
-		this.text_editor_ide = ["VS Code"];
+		this.os		         = ["Windows", "Linux"];
+		this.text_editor_ide	 = ["VS Code"];
 	}
 
 	sayHi() {
